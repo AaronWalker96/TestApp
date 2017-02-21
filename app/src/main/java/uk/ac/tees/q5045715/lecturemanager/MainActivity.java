@@ -25,6 +25,9 @@ public class MainActivity extends AppCompatActivity {
         dh.addLecturer(new Lecturer("Jane Colton", "2526"));
         dh.addLecturer(new Lecturer("Eudes Diemoz", "3002"));
         dh.addLecturer(new Lecturer("Name", "1111"));
+        dh.addLecturer(new Lecturer("Name", "1111"));
+        dh.addLecturer(new Lecturer("Name", "1111"));
+        dh.addLecturer(new Lecturer("Name", "1111"));
 
         dh.deleteLecturer(2);
 
